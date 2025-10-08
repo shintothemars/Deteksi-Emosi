@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 import joblib
 import re
@@ -126,5 +126,5 @@ if st.button("Predict"):
         st.write(f"**Sentimen:** {sentimen_label}")
         st.write(f"**Emotion:** {emotion_label}")
 
->>>>>>> b6c48bc8914510a8f67b8bf10d3205c5ff9d5283
+
         
