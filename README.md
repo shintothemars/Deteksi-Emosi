@@ -1,4 +1,5 @@
 # 💬 Deteksi Emosi dan Sentimen
+<img width="1246" height="834" alt="image" src="https://github.com/user-attachments/assets/7f16181b-6011-4e2f-bb97-5601069e3de7" />
 
 Aplikasi **Deteksi Emosi dan Sentimen** berbasis **Machine Learning** yang dibangun menggunakan **Python, Streamlit, dan NLP (Natural Language Processing)**.  
 Aplikasi ini dapat menganalisis teks untuk memprediksi **emosi** (seperti senang, sedih, marah, dll) dan **sentimen** (positif/negatif) secara otomatis.
