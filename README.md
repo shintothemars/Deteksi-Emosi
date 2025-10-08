@@ -24,7 +24,6 @@ Aplikasi ini dapat menganalisis teks untuk memprediksi **emosi** (seperti senang
 ---
 
 ### 1. Clone repository
-```bash
 
 Salin repository ini ke komputer lokal kamu:
 ```bash
